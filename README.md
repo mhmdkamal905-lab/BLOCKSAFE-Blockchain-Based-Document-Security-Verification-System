@@ -1,0 +1,2 @@
+# BLOCKSAFE-Blockchain-Based-Document-Security-Verification-System
+BLOCKSAFE is a blockchain-based document security and verification system designed to protect digital document integrity using SHA-256 cryptographic hashing and Ethereum blockchain technology. Built with PHP and MySQL, the platform provides secure document management, hash verification, and verification history tracking to improve transparency.
